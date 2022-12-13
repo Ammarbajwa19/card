@@ -26,4 +26,19 @@ final post = [
       profilePicture: 'assets/profile5.jpg',
       postPicture: 'assets/post.jpg',
       timeAgo: '5 mint ago'),
+  PostModel(
+      author: 'Mar BaJwa',
+      profilePicture: 'assets/profile5.jpg',
+      postPicture: 'assets/post.jpg',
+      timeAgo: '5 mint ago'),
+  PostModel(
+      author: 'Mar BaJwa',
+      profilePicture: 'assets/profile5.jpg',
+      postPicture: 'assets/post.jpg',
+      timeAgo: '5 mint ago'),
+  PostModel(
+      author: 'Mar BaJwa',
+      profilePicture: 'assets/profile5.jpg',
+      postPicture: 'assets/post.jpg',
+      timeAgo: '5 mint ago'),
 ];
